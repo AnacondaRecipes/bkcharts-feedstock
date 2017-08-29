@@ -48,6 +48,7 @@ about:
   license: BSD 3-Clause
   license_file: LICENSE.txt
   summary: High level chart types built on top of Bokeh
+  dev_url: http://github.com/bokeh/bkcharts
 
 extra:
   recipe-maintainers:
